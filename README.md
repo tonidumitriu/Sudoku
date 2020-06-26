@@ -1,2 +1,2 @@
 # Sudoku
-A game of sudoku prgramed in python using pygame.
+A game of sudoku programmed in python using pygame.
